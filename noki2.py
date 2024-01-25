@@ -11,51 +11,51 @@ class QuizApp:
         self.questions = [
             {
                 'question_text': 'Our anniversary:',
-                'image_path': 'noki/1.png',
+                'image_path': '1.png',
                 'options': [
-                    'noki/1.1.png',
-                    'noki/1.2.png',
-                    'noki/1.3.png'
+                    '1.1.png',
+                    '1.2.png',
+                    '1.3.png'
                 ],
                 'correct_option': 2
             },
             {
                 'question_text': 'Ai nhìn ngáo nhất:',
-                'image_path': 'noki/2.png',
+                'image_path': '2.png',
                 'options': [
-                    'noki/2.1.png',
-                    'noki/2.2.png',
-                    'noki/2.3.png'
+                    '2.1.png',
+                    '2.2.png',
+                    '2.3.png'
                 ],
                 'correct_option': 1
             },
             {
                 'question_text': 'Most replayed song:',
-                'image_path': 'noki/3.png',
+                'image_path': '3.png',
                 'options': [
-                    'noki/3.1.png',
-                    'noki/3.2.png',
-                    'noki/3.3.png'
+                    '3.1.png',
+                    '3.2.png',
+                    '3.3.png'
                 ],
                 'correct_option': 0
             },
             {
                 'question_text': 'If I am sad, where can you find me?',
-                'image_path': 'noki/4.png',
+                'image_path': '4.png',
                 'options': [
-                    'noki/4.1.png',
-                    'noki/4.2.png',
-                    'noki/4.3.png'
+                    '4.1.png',
+                    '4.2.png',
+                    '4.3.png'
                 ],
                 'correct_option': 1
             },
             {
                 'question_text': 'Most nom nom food:',
-                'image_path': 'noki/5.png',
+                'image_path': '5.png',
                 'options': [
-                    'noki/5.1.png',
-                    'noki/5.2.png',
-                    'noki/5.3.png'
+                    '5.1.png',
+                    '5.2.png',
+                    '5.3.png'
                 ],
                 'correct_option': 2
             },
